@@ -1,1 +1,4 @@
 Mi Nombre es jose soy creador de contenido  otro cambio a la ramaS
+
+Realizando un cambio de programacion sobre un for i in range(1,2-1-1):
+                                                    print(i)
